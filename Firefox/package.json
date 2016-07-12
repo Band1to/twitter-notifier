@@ -1,0 +1,21 @@
+{
+  "title": "Twitter™ Notifier",
+  "name": "itnotifier",
+  "version": "0.1.1",
+  "description": "Twitter™ Notifier is a fully-fledged Twitter client for your browser",
+  "main": "common.js",
+  "author": "Morni Colhkher, Alexis Jaksone",
+  "id": "jid1-qabDKwVsr2BZyp@jetpack",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MPL 2.0",
+  "keywords": [
+    "jetpack"
+  ],
+  "permissions": {
+    "private-browsing": true,
+    "multiprocess": true,
+    "unsafe-content-script": true
+  }
+}
